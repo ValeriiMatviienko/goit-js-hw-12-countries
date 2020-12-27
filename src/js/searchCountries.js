@@ -1,4 +1,4 @@
-import countryApi from './fetchCountries.js';
+import countryApi from '../js/fetchCountries.js';
 import countryData from '../templates/countryData.hbs';
 import countryList from '../templates/countryList.hbs';
 
