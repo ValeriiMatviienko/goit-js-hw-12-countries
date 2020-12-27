@@ -52,6 +52,7 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "handlebars": "^4.7.6",
+    "hbs": "^4.1.1",
     "lodash": "^4.17.20",
     "lodash.debounce": "^4.0.8"
   }
